@@ -1,5 +1,5 @@
 
-![]("https://img.freepik.com/free-photo/3d-robot-hand-background-ai-technology-side-view_53876-129789.jpg?w=1380&t=st=1675899325~exp=1675899925~hmac=1a21d0752417162daf93006ccbc0b5646131e3b7a31e61dd7bf0d5e5d80e9b77")
+![]("//ai.jpg")
 
 ## About me
 
