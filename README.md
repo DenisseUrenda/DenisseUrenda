@@ -1,5 +1,5 @@
 
-![]("ai.jpg")
+![Artificial Intelligence](ai.jpg)
 
 ## About me
 
