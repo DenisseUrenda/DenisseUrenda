@@ -1,5 +1,5 @@
 
-![]("//ai.jpg")
+![]("ai.jpg")
 
 ## About me
 
