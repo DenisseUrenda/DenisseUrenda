@@ -1,5 +1,5 @@
 
-![Artificial Intelligence](ai.jpg)
+![Artificial Intelligence](ai-image.jpg)
 
 ## About me
 
