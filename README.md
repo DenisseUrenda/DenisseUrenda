@@ -14,7 +14,7 @@ Just a brief description about me, my background, and my interests.
 
 ## What you will find here
 
-Currently, I am working in a variety of projects. You could find repositories on
+Currently, I am working in a variety of projects. You might find repositories on
 
  - Data Visualization Projects
  - Data Analysis Projects
