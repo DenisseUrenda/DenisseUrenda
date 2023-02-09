@@ -19,3 +19,5 @@ Currently, I am working in a variety of projects. You could find repositories on
  - Data Visualization Projects
  - Data Analysis Projects
  - R Packages
+ - Python Programming Projects
+ - Shinny App Projects
