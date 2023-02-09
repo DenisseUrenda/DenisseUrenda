@@ -11,7 +11,7 @@ Just a brief description about me, my background, and my interests.
  - I like to learn new things, specially about Stat and Programming.
  - I am interesed in Machine Leaning, Deep Learning, and Artificial Intelligence
 
-## Wha you will find here
+## What you will find here
 
 Currently, I am working in a variety of projects. You could find repositories on
 
